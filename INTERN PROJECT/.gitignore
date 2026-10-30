@@ -91,3 +91,8 @@ desktop.ini
 *.bak
 *.swp
 *.old
+
+
+# Large project backup archives
+INTERN PROJECT/backend.zip
+INTERN PROJECT/frontend.zip
